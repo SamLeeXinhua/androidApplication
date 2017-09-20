@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1st</string>
+    <string name="appText">My application Text</string>
+    <string name="appText1">opened</string>
+    <string name="restoreButton">restore</string>
+    <string name="updateButton">update</string>
+    <string name="clearButton">new</string>
+    <string name="closeButton">close</string>
+
+</resources>
